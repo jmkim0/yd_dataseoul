@@ -85,12 +85,12 @@
 - 수정 단계: 코치님 피드백 반영해서 분석/ 시각화 방식 수정
 
 ## 5. 폴더 설명
-### /data-backend
+### data-backend
 Flask + SQLAlchemy 데이터 API 서버 코드  
 [DB export file (data_seoul_db.sql)](https://drive.google.com/file/d/1-ah2bfE11wNKbpt-_yt6wEeNGyyyXmDA/view?usp=sharing)
-### /react-frontend
+### react-frontend
 React.js SPA 코드
-### /csv2mysql
+### csv2mysql
 csv를 mysql로 올리는 코드
-### /deploy_settings
+### deploy_settings
 Linux 배포시 사용하는 gunicorn, nginx 설정 파일
