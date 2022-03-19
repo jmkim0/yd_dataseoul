@@ -57,12 +57,12 @@
 ## 4. 프로젝트 팀원 역할 분담
 | 이름 | 담당 업무 |
 | ------ | ------ |
-| 유XX | 팀장 / 백엔드 개발 & 데이터 분석 |
+| 유OO | 팀장 / 백엔드 개발 & 데이터 분석 |
 | 김지민 | 팀원 / 프론트엔드 & 백엔드 개발 |
-| 장XX | 팀원 / 프론트엔드 |
-| 신XX | 팀원 / 백엔드 개발 & 데이터 분석 |
-| 이XX | 팀원 / 프론트엔드 |
-| 고XX | 팀원 / 백엔드 개발 & 데이터 분석 |
+| 장OO | 팀원 / 프론트엔드 |
+| 신OO | 팀원 / 백엔드 개발 & 데이터 분석 |
+| 이OO | 팀원 / 프론트엔드 |
+| 고OO | 팀원 / 백엔드 개발 & 데이터 분석 |
 
 **멤버별 responsibility**
 
@@ -82,15 +82,18 @@
 
 - 기획 단계: 기획 데이터 분석을 통해 해결하고자 하는 문제를 정의
 - 개발 단계: 웹 서버 사용자가 직접 백엔드에 저장할수 있는 기능 구현, 데이터 베이스 구축 및 API 활용, 데이터 분석 개념 총동원하기
-- 수정 단계: 코치님 피드백 반영해서 분석/ 시각화 방식 수정
+- 수정 단계: 코치님 피드백 반영해서 분석 / 시각화 방식 수정
 
 ## 5. 폴더 설명
 ### data-backend
 Flask + SQLAlchemy 데이터 API 서버 코드  
-[DB export file (data_seoul_db.sql)](https://drive.google.com/file/d/1-ah2bfE11wNKbpt-_yt6wEeNGyyyXmDA/view?usp=sharing)
+[DB export file (data_seoul_db.sql) - Google Drive](https://drive.google.com/file/d/1-ah2bfE11wNKbpt-_yt6wEeNGyyyXmDA/view?usp=sharing)
 ### react-frontend
 React.js SPA 코드
 ### csv2mysql
 csv를 mysql로 올리는 코드
 ### deploy_settings
 Linux 배포시 사용하는 gunicorn, nginx 설정 파일
+
+## 6. 발표 자료
+[DATASeoul_발표자료.pdf - Google Drive](https://drive.google.com/file/d/1-vl0UnV6aMHye6Ncmep83lK3k5BcX8VH/view?usp=sharing)
