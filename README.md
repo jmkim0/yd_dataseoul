@@ -87,7 +87,7 @@
 ## 5. 폴더 설명
 ### data-backend
 Flask + SQLAlchemy 데이터 API 서버 코드  
-[DB export file (data_seoul_db.sql) - Google Drive](https://drive.google.com/file/d/1-ah2bfE11wNKbpt-_yt6wEeNGyyyXmDA/view?usp=sharing)
+[DB export file (data_seoul_db.sql) - Google Drive](https://drive.google.com/file/d/1_zchcj9bmpwasSL_bimYX6omMDJ5hCxV/view?usp=sharing)
 ### react-frontend
 React.js SPA 코드
 ### csv2mysql
@@ -96,4 +96,4 @@ csv를 mysql로 올리는 코드
 Linux 배포시 사용하는 gunicorn, nginx 설정 파일
 
 ## 6. 발표 자료
-[DATASeoul_발표자료.pdf - Google Drive](https://drive.google.com/file/d/1-vl0UnV6aMHye6Ncmep83lK3k5BcX8VH/view?usp=sharing)
+[DATASeoul_발표자료.pdf - Google Drive](https://drive.google.com/file/d/1Q0mwQq49JGy09R7RhKdgJ87YZmCx9KQf/view?usp=sharing)
